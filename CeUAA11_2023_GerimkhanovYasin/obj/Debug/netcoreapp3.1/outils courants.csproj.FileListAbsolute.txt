@@ -1,0 +1,26 @@
+H:\yasin c sharp\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.exe
+H:\yasin c sharp\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.deps.json
+H:\yasin c sharp\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.runtimeconfig.json
+H:\yasin c sharp\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.runtimeconfig.dev.json
+H:\yasin c sharp\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.dll
+H:\yasin c sharp\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.pdb
+H:\yasin c sharp\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.csprojAssemblyReference.cache
+H:\yasin c sharp\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.AssemblyInfoInputs.cache
+H:\yasin c sharp\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.AssemblyInfo.cs
+H:\yasin c sharp\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.csproj.CoreCompileInputs.cache
+H:\yasin c sharp\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.dll
+H:\yasin c sharp\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.pdb
+H:\yasin c sharp\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.genruntimeconfig.cache
+H:\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.exe
+H:\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.deps.json
+H:\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.runtimeconfig.json
+H:\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.runtimeconfig.dev.json
+H:\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.dll
+H:\outils courants\outils courants\bin\Debug\netcoreapp3.1\outils courants.pdb
+H:\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.csprojAssemblyReference.cache
+H:\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.AssemblyInfoInputs.cache
+H:\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.AssemblyInfo.cs
+H:\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.csproj.CoreCompileInputs.cache
+H:\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.dll
+H:\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.pdb
+H:\outils courants\outils courants\obj\Debug\netcoreapp3.1\outils courants.genruntimeconfig.cache

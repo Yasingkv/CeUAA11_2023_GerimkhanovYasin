@@ -1,0 +1,13 @@
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\bin\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.exe
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\bin\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.deps.json
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\bin\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.runtimeconfig.json
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\bin\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.runtimeconfig.dev.json
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\bin\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.dll
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\bin\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.pdb
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\obj\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.csprojAssemblyReference.cache
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\obj\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.AssemblyInfoInputs.cache
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\obj\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.AssemblyInfo.cs
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\obj\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.csproj.CoreCompileInputs.cache
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\obj\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.dll
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\obj\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.pdb
+C:\Users\200460\source\repos\CeUAA11_2023_GerimkhanovYasin\CeUAA11_2023_GerimkhanovYasin\obj\Debug\netcoreapp3.1\CeUAA11_2023_GerimkhanovYasin.genruntimeconfig.cache
